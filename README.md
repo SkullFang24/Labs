@@ -1,6 +1,6 @@
 # Labs
 
-# Lab3
+#Lab3
 https://www.figma.com/file/SuBB6kPb1bNemhbjvrQg0N/Calculator?type=design&node-id=0-1&mode=design&t=E2PyCzOqTiB2oT3Z-0
 
 #lab4
